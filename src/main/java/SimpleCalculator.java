@@ -3,7 +3,7 @@
  */
 public class SimpleCalculator {
 
-    public static int addToIntegers(int num1, int num2) {
+    public static int addTwoIntegers(int num1, int num2) {
         return num1 + num2;
     }
 }
